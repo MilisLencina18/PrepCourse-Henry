@@ -1,1 +1,1 @@
-prueba de como crar un repositorio y clonarlo desde girhub a mi computadora
+Este es un proyecto de prueba de como crar un repositorio y clonarlo desde girhub a mi computadora.
