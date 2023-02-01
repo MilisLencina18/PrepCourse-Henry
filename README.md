@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo2 del prepcourse de Henry
+prueba de como crar un repositorio y clonarlo desde girhub a mi computadora
